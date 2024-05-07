@@ -14,4 +14,13 @@ Pastikan memiliki Java. Jika belum, install terlebih dahulu
 4. Jalankan perintah javac Main.java
 5. Jalankan perintah java Main
 
+## Format Masukan
+1. Masukkan startword terlebih dahulu dengan huruf kecil semua (case sensitive)
+2. Tekan enter
+3. Masukkan targetword dengan huruf kecil semua (case sensitive)
+4. Tekan enter
+5. Masukkan algoritma yang diinginkan (UCS atau GBFS atau A*) - case sensitive
+6. Tekan enter
+7. Akan keluar hasil
+
 ## Identity : Eduardus Alvito Kristiadi (13522004)
