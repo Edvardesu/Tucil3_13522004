@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) throws Exception {
         // pass the path to the file as a parameter
         File file = new File(
-                "D:\\OneDrive - Institut Teknologi Bandung\\COLLEGE\\SEMESTER 4\\Strategi Algoritma\\tucil3\\src\\words_alpha.txt");
+                "words_alpha.txt");
         Scanner sc = new Scanner(file);
 
         List<String> dictionaryL = new ArrayList<>();

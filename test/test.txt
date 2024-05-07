@@ -1,0 +1,14 @@
+1. Target: Make
+Hasil Pengujian
+
+2. Start: mist
+Target: pope
+
+3. Start: blue
+Target: bird
+
+4. Start: bride
+Target: thumb
+
+5. Start: plant
+Target: brake
